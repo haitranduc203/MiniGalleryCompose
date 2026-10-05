@@ -13,6 +13,7 @@ applicationId là `com.example.minigallerycompose`; namespace/package Kotlin là
 - [Hướng dẫn tự viết lại dự án](docs/REBUILD_GUIDE_VI.md): các bước tạo project, model, repository, ViewModel, Compose UI và tiêu chí kiểm tra.
 - [Giải thích từng lớp và hàm](docs/CODE_WALKTHROUGH_VI.md): cấu trúc, luồng dữ liệu, ghép nguồn picker/MediaStore, quyền, lifecycle và test.
 - [Phụ lục source đầy đủ](docs/SOURCE_REFERENCE_VI.md): code và cấu hình tại thời điểm viết tài liệu để đối chiếu.
+- [Đối chiếu kiến thức Android Basic và Content Provider](docs/ANDROID_BASIC_COMPONENTS_MAPPING_VI.md): kiến thức đã áp dụng, luồng query MediaStore/Photo Picker và mức đáp ứng Bài 5.
 - [Kết quả kiểm tra](VERIFICATION.md).
 
 ## Hành vi
